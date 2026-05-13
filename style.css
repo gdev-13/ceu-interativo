@@ -1,0 +1,15 @@
+body {
+    background: rgb(20, 142, 236);
+    font: normal 1.25rem "Arial", sans-serif;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+}
