@@ -16,3 +16,8 @@ function carregar() {
         imagem.src = 'images/noite.jpg'
     }
 }
+
+function iniciar() {
+    carregar() // chama imediatamente
+    setInterval(carregar, 60000) // atualiza a cada 60 segundos
+}
